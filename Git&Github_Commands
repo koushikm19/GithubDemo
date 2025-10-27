@@ -1,0 +1,23 @@
+Git >> Needs for Version Control
+       eg ; whatsApp
+           v1
+           v2
+           v3
+     new   v4
+    
+    >> It is distrubuted on cloud
+    >> uses for collabration
+    >> Tracking a changes : {we can know which devloper made changes in particular part}
+    >> Recovery : {if v4 have some issues means we use v3} 
+
+
+    >>For 1st time need to configure GitHub in our system
+    >>Command - git config --global user.name "koushikm19"
+             - git config --global user.email "koushikm1909@gmail.com"
+             - git config --global color.ui auto {Gives suggestion for auto color
+        
+
+    >> Mandatory commands
+      - git init {used for initilization}
+      - git remote add origin https://github.com/koushikm19/GithubDemo.git {used for connect remote(local) git editor to global}
+  
